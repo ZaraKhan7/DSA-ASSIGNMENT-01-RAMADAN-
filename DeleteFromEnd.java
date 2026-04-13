@@ -1,3 +1,6 @@
+// ZARA ARIF
+// EB25210006109
+
 class Node {
     String data;
     Node next;
