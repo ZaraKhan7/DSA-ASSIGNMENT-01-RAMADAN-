@@ -21,7 +21,7 @@ public class InsertAfterGivenNode {
         head.next.next.next = new Node("Islamabad");
         head.next.next.next.next = new Node("Balochistan");
 
-        String target = "Lahore";   //node after which we insert
+        String target = "Islamabad";   //node after which we insert
         String value = "Multan";    //new node
 
         Node temp = head;
